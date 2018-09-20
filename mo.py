@@ -1,0 +1,11 @@
+a=120
+print(a)
+b=57
+print(b)
+c=89
+print(c)
+x=a+b+c
+y=a-b-c
+z=a*b*c
+r=a/b/c
+print("addition="x,"\nsubstraction="y,"\nmultiplication=z","\ndivision=r)

@@ -1,0 +1,2 @@
+#printing college details
+print("CMR University is a reputated college.It is been there since 25 years,it has many courses like BTECH,BBA,MBA,LLB etc.I am studying in soet which is a part of CMR University.It is in Baglur,it has very good infrastructure and environment.")
